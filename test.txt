@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 48C2-B5B8
+
+ Directory of C:\Users\shrut\OneDrive\Desktop\MyGITProject
+
+16-06-2026  16:19    <DIR>          .
+16-06-2026  16:14    <DIR>          ..
+16-06-2026  16:19                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  393,917,329,408 bytes free
